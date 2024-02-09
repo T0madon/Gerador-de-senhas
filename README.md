@@ -1,25 +1,8 @@
-# Gerador-de-senhas
-Gerador de senhas aleatórias, sendo possível o usuário escolher o tamanho da senha
+# React + Vite
 
-## Índice
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- [Sobre](#sobre)
-- [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+Currently, two official plugins are available:
 
-## Sobre
-
-O projeto foi feito com React, sendo toda a sua lógica em JS, estilização em CSS, também fiz um componente Input.
-
-## Como Usar
-
-O projeto é simples, basta fazer o upload do código, em seguida digitar no console o seguinte comando:
-```console
-npm run dev
-```
-Para assim rodar o código pelo vite.
-
-
-
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
